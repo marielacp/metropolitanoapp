@@ -1,5 +1,5 @@
 #Metropolitano
-![Imágenes](assets/img/metropolitano.png) 
+![Imágenes](assets/img/metropolitano.jpg) 
 
 ### Mejora App. del Metropolitano
 
@@ -9,7 +9,7 @@
 Reunion con los stakholders, para definir el rediseño del producto.
 
 #### STAKHOLDERS
-![Imágenes](assets/img/presindente.jpg) 
+![Imágenes](assets/img/gerente.jpg) 
 
 #### Diseño Canvas
 
