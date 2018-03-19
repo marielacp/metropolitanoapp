@@ -6,10 +6,17 @@
 ### Planeamiento
 #### Vista desde Negocio.
 #### Programacion 1era reunion Kick Off.
-Reunion con los stakholders, para definir el rediseño del producto.
+Reunión con los stakholders, para definir el rediseño del producto.
 
 #### STAKHOLDERS
 ![Imágenes](assets/img/gerente.jpg) 
+
+- Personal CEO.
+- Equipo de Desarrollo.
+- Equipo de Diseño.
+- Usuarios.
+- Equipo de Marketing.
+- Equipo de Contabilidad.
 
 #### Diseño Canvas
 ![Imágenes](assets/img/canva.jpg) 
