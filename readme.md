@@ -13,7 +13,7 @@ Reunion con los stakholders, para definir el rediseño del producto.
 
 #### Diseño Canvas
 
-![Imágenes](assets/img/canvas.jpg) 
+![Imágenes](assets/img/canva.jpg) 
 
 #### Problem Statement
 ![Imágenes](assets/img/problemStatement.jpg)
