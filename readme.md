@@ -12,12 +12,13 @@ Reunion con los stakholders, para definir el rediseño del producto.
 ![Imágenes](assets/img/gerente.jpg) 
 
 #### Diseño Canvas
-
 ![Imágenes](assets/img/canva.jpg) 
 
-#### Problem Statement
-
+#### AFFINITY MAP
 ![Imágenes](assets/img/afinitimap.jpg)
 
+#### Problem Statement
 ![Imágenes](assets/img/problemStatement1.jpg)
 
+#### Desarrollo Estadistico
+![Imágenes](assets/img/resumen estadistico.jpg)
