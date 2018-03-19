@@ -5,7 +5,7 @@
 
 ### Planeamiento
 #### Vista desde Negocio.
-#### Programacion 1era reunion Kick Off.
+#### Programación 1era reunión Kick Off.
 Reunión con los stakholders, para definir el rediseño del producto.
 
 #### STAKHOLDERS
@@ -27,7 +27,7 @@ Reunión con los stakholders, para definir el rediseño del producto.
 #### Problem Statement
 ![Imágenes](assets/img/problemStatement1.jpg)
 
-#### Desarrollo Estadistico
+#### Desarrollo Estadístico
 ![Imágenes](assets/img/resumenestadistico.jpg)
 
 - Problemas:
@@ -35,4 +35,5 @@ Reunión con los stakholders, para definir el rediseño del producto.
   - La aplicación del metropolitano no es funcional.
   - Disconformidad al momento de hacer las recargas, los usuarios presentan al menos 1 experiencia donde pierden su dinero.
   
-
+#### USER PERSONA
+![Imágenes](assets/img/user.jpg)
