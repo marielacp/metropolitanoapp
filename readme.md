@@ -21,4 +21,4 @@ Reunion con los stakholders, para definir el rediseño del producto.
 ![Imágenes](assets/img/problemStatement1.jpg)
 
 #### Desarrollo Estadistico
-![Imágenes](assets/img/resumen estadistico.jpg)
+![Imágenes](assets/img/resumenestadistico.jpg)
