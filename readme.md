@@ -8,7 +8,7 @@
 #### Programación 1era reunión Kick Off.
 Reunión con los stakholders, para definir el rediseño del producto.
 
-#### STAKHOLDERS
+#### Stackholders
 ![Imágenes](assets/img/gerente.jpg) 
 
 - Personal CEO.
@@ -21,7 +21,7 @@ Reunión con los stakholders, para definir el rediseño del producto.
 #### Diseño Canvas
 ![Imágenes](assets/img/canva.jpg) 
 
-#### AFFINITY MAP
+#### Affinity Map
 ![Imágenes](assets/img/afinitimap.jpg)
 
 #### Problem Statement
@@ -35,5 +35,5 @@ Reunión con los stakholders, para definir el rediseño del producto.
   - La aplicación del metropolitano no es funcional.
   - Disconformidad al momento de hacer las recargas, los usuarios presentan al menos 1 experiencia donde pierden su dinero.
   
-#### USER PERSONA
+#### User Person
 ![image](https://user-images.githubusercontent.com/32305619/37626619-c8a4a854-2b9e-11e8-9030-e4b011809d40.png)
