@@ -19,5 +19,5 @@ Reunion con los stakholders, para definir el rediseño del producto.
 
 ![Imágenes](assets/img/afinitimap.jpg)
 
-![Imágenes](assets/img/problemStatement.jpg)
+![Imágenes](assets/img/problemStatement1.jpg)
 
