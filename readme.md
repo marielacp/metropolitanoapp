@@ -36,4 +36,4 @@ Reunión con los stakholders, para definir el rediseño del producto.
   - Disconformidad al momento de hacer las recargas, los usuarios presentan al menos 1 experiencia donde pierden su dinero.
   
 #### USER PERSONA
-![image](https://user-images.githubusercontent.com/32305619/37626464-1fce424e-2b9e-11e8-80ee-ee917117f1d0.png)
+![image](https://user-images.githubusercontent.com/32305619/37626619-c8a4a854-2b9e-11e8-9030-e4b011809d40.png)
