@@ -9,8 +9,6 @@
 Reunión con los stakholders, para definir el rediseño del producto.
 
 ### Stackholders
-![Imágenes](assets/img/gerente.jpg) 
-
 - Personal CEO.
 - Equipo de Desarrollo.
 - Equipo de Diseño.
@@ -21,14 +19,14 @@ Reunión con los stakholders, para definir el rediseño del producto.
 ### Diseño Canvas
 ![Imágenes](assets/img/canva.jpg) 
 
+### Desarrollo Estadístico
+![Imágenes](assets/img/resumenestadistico.jpg)
+
 ### Affinity Map
 ![Imágenes](assets/img/afinitimap.jpg)
 
 ### Problem Statement
 ![Imágenes](assets/img/problemStatement1.jpg)
-
-### Desarrollo Estadístico
-![Imágenes](assets/img/resumenestadistico.jpg)
 
 - Problemas:
   - Desconocen la aplicación del metropolitano.
