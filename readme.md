@@ -1,5 +1,5 @@
 # Metropolitano
-![Imágenes](assets/img/metropolitano.jpg) 
+![Imágenes](img/metropolitano.jpg) 
 
 ### Mejora App. del Metropolitano
 
@@ -53,13 +53,13 @@ Num | Pregunta
 
 
 ### Affinity Map
-![Imágenes](assets/img/afinitimap.jpg)
+![Imágenes](img/afinitimap.jpg)
 
 ### Problem Statement
 
 ![Imágenes](img/resumenestadistico.jpg)
 
-![Imágenes](assets/img/problemStatement1.jpg)
+![Imágenes](img/problemStatement1.jpg)
 
 - Problemas:
   - Desconocen la aplicación del metropolitano.
