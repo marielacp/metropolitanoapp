@@ -70,3 +70,7 @@ Num | Pregunta
   
 ### User Person
 ![image](https://user-images.githubusercontent.com/32305619/37626619-c8a4a854-2b9e-11e8-9030-e4b011809d40.png)
+
+### Prototipado
+
+![Imágenes](img/prototipo.png)
