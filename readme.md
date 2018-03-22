@@ -24,7 +24,7 @@ Reunión con los stakholders, para definir el rediseño del producto.
 
 ### Cuestionario de Preguntas.
 
-   | Pregunta
+Num | Pregunta
 ----|----------------------------------------------------------------------------------------
  1 | ¿Cómo te llamas ?
  2 | ¿Qué edad tienes ?
