@@ -20,7 +20,7 @@ Reunión con los stakholders, para definir el rediseño del producto.
 ![Imágenes](img/canva.jpg) 
 
 ### Desarrollo Estadístico
-![Imágenes](img/preguntas.png)
+![Imágenes](img/preguntas1.png)
 
 ### Cuestionario de Preguntas.
 
