@@ -78,3 +78,9 @@ Num | Pregunta
 ### Prototipado
 
 ![Imágenes](img/prototipo.png)
+
+### Versiones
+![Imágenes](img/versiones.jpg)
+
+### Prototipo Marvell
+![Imágenes](img/prototipomarvel.png)
