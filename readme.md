@@ -17,10 +17,10 @@ Reunión con los stakholders, para definir el rediseño del producto.
 - Equipo de Contabilidad.
 
 ### Diseño Canvas
-![Imágenes](assets/img/canva.jpg) 
+![Imágenes](img/canva.jpg) 
 
 ### Desarrollo Estadístico
-![Imágenes](assets/img/resumenestadistico.jpg)
+![Imágenes](img/preguntas.png)
 
 ### Cuestionario de Preguntas.
 
@@ -56,6 +56,9 @@ Num | Pregunta
 ![Imágenes](assets/img/afinitimap.jpg)
 
 ### Problem Statement
+
+![Imágenes](img/resumenestadistico.jpg)
+
 ![Imágenes](assets/img/problemStatement1.jpg)
 
 - Problemas:
